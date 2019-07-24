@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+This is just some text to test GitHub
